@@ -11,8 +11,10 @@ apt install sl -y
 apt install toilet -y
 apt install cowsay -y
 apt install nano -y
-apt install ruby -y
+apt install ruby 
+
 gem install lolcat -y
+
 figlet -f big Done !!! | lolcat
 echo
 echo -e "\e[1m Now Runing main process"
